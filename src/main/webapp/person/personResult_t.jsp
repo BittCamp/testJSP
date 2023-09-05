@@ -1,5 +1,5 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
-    pageEncoding="UTF-8"%>
+    pageEncoding="UTF-8"%><!-- [ 김찬영  2023-09-1 오후 05:31:16 ] -->
 <%
 //데이터
 		String name = request.getParameter("name");
